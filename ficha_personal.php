@@ -38,8 +38,8 @@
                     </tr>
                     <tr>
                         <th>Peliculas favoritas:</th>
-                        <td><?php echo $apeliculas[0]; ?>
-                        <?php echo $apeliculas[1]; ?>
+                        <td><?php echo $apeliculas[0].", "; ?>
+                        <?php echo $apeliculas[1].", "; ?>
                         <?php echo $apeliculas[2]; ?>
                         </td>
                     </tr>
